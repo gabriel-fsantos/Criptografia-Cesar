@@ -1,0 +1,1 @@
+A cifra de Cesar pode ser facilmente decifrada mesmo que se tenha apenas o texto cifrado
